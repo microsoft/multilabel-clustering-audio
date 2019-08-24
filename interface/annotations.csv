@@ -13,3 +13,60 @@ c0399635-a596-4485-835c-ec9a96090ac0,39_001717,['1-1_small-sounding-engine_prese
 c0399635-a596-4485-835c-ec9a96090ac0,01_000006,['1-2_medium-sounding-engine_presence'],,20190823_132026
 2001551c-52bf-4a50-959d-05f71851d3c2,31_002576,['1-2_medium-sounding-engine_presence'],,20190823_132403
 2001551c-52bf-4a50-959d-05f71851d3c2,01_000006,"['1-2_medium-sounding-engine_presence', '9_other']",hola,20190823_132914
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000038,"['8-1_dog-barking-whining_presence', '7-1_person-or-small-group-talking_presence']",,20190823_162858
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_002166,['8-1_dog-barking-whining_presence'],,20190823_162858
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000167,['8-1_dog-barking-whining_presence'],,20190823_162858
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000038,"['8-1_dog-barking-whining_presence', '7-1_person-or-small-group-talking_presence']",,20190823_162859
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_002166,['8-1_dog-barking-whining_presence'],,20190823_162859
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000167,['8-1_dog-barking-whining_presence'],,20190823_162859
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000038,"['8-1_dog-barking-whining_presence', '7-1_person-or-small-group-talking_presence']",,20190823_162904
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_002166,['8-1_dog-barking-whining_presence'],,20190823_162904
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000167,['8-1_dog-barking-whining_presence'],,20190823_162904
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000038,"['8-1_dog-barking-whining_presence', '7-1_person-or-small-group-talking_presence']",,20190823_162911
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_002166,['8-1_dog-barking-whining_presence'],,20190823_162911
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000167,['8-1_dog-barking-whining_presence'],,20190823_162911
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000038,"['8-1_dog-barking-whining_presence', '7-1_person-or-small-group-talking_presence']",,20190823_162930
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_002166,['8-1_dog-barking-whining_presence'],,20190823_162930
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000167,['8-1_dog-barking-whining_presence'],,20190823_162930
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000038,"['8-1_dog-barking-whining_presence', '7-1_person-or-small-group-talking_presence']",,20190823_163020
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_002166,['8-1_dog-barking-whining_presence'],,20190823_163020
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000167,['8-1_dog-barking-whining_presence'],,20190823_163020
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000038,"['8-1_dog-barking-whining_presence', '7-1_person-or-small-group-talking_presence']",,20190823_163030
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_002166,['8-1_dog-barking-whining_presence'],,20190823_163030
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000167,['8-1_dog-barking-whining_presence'],,20190823_163030
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000038,"['8-1_dog-barking-whining_presence', '7-1_person-or-small-group-talking_presence']",,20190823_163031
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_002166,['8-1_dog-barking-whining_presence'],,20190823_163031
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_000167,['8-1_dog-barking-whining_presence'],,20190823_163031
+21a09d27-8ef3-4f6c-a526-7157d637519d,36_000669,"['3-1_non-machinery-impact_presence', '1-2_medium-sounding-engine_presence']",,20190823_163259
+21a09d27-8ef3-4f6c-a526-7157d637519d,31_002080,"['2-X_other-unknown-impact-machinery_presence', '1-2_medium-sounding-engine_presence']",,20190823_163634
+21a09d27-8ef3-4f6c-a526-7157d637519d,31_000576,['1-2_medium-sounding-engine_presence'],,20190823_163634
+21a09d27-8ef3-4f6c-a526-7157d637519d,02_000865,['2-2_jackhammer_presence'],,20190823_163634
+21a09d27-8ef3-4f6c-a526-7157d637519d,27_002631,['1-2_medium-sounding-engine_presence'],,20190823_163634
+21a09d27-8ef3-4f6c-a526-7157d637519d,37_000464,"['1-2_medium-sounding-engine_presence', '7-1_person-or-small-group-talking_presence']",,20190823_163634
+21a09d27-8ef3-4f6c-a526-7157d637519d,40_000790,"['1-2_medium-sounding-engine_presence', '2-X_other-unknown-impact-machinery_presence']",,20190823_164132
+21a09d27-8ef3-4f6c-a526-7157d637519d,02_002434,['7-2_person-or-small-group-shouting_presence'],,20190823_164132
+21a09d27-8ef3-4f6c-a526-7157d637519d,37_002280,['9_other'],small rolling thing,20190823_164132
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_001584,['9_other'],person walking,20190823_164132
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_001778,['9_other'],small rolling thing,20190823_164132
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_001676,['9_other'],bird chirping,20190823_164219
+21a09d27-8ef3-4f6c-a526-7157d637519d,27_001250,['4-1_chainsaw_presence'],,20190823_164419
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_001476,"['4-2_small-medium-rotating-saw_presence', '7-1_person-or-small-group-talking_presence', '8-1_dog-barking-whining_presence']",,20190823_164419
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_001610,"['7-1_person-or-small-group-talking_presence', '5-1_car-horn_presence', '1-1_small-sounding-engine_presence']",,20190823_164518
+21a09d27-8ef3-4f6c-a526-7157d637519d,29_002108,"['1-1_small-sounding-engine_presence', '7-2_person-or-small-group-shouting_presence']",,20190823_164518
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_001611,['1-2_medium-sounding-engine_presence'],,20190823_164541
+21a09d27-8ef3-4f6c-a526-7157d637519d,40_002151,"['5-1_car-horn_presence', '7-1_person-or-small-group-talking_presence']",,20190823_164622
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_001658,"['7-1_person-or-small-group-talking_presence', '9_other']",clapping,20190823_164622
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_001676,['9_other'],,20190823_164643
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_001702,"['8-1_dog-barking-whining_presence', '1-2_medium-sounding-engine_presence']",,20190823_164713
+21a09d27-8ef3-4f6c-a526-7157d637519d,40_002330,['1-2_medium-sounding-engine_presence'],,20190823_164713
+21a09d27-8ef3-4f6c-a526-7157d637519d,24_001189,['3-1_non-machinery-impact_presence'],,20190823_164906
+21a09d27-8ef3-4f6c-a526-7157d637519d,40_001872,['9_other'],cleaning,20190823_164906
+21a09d27-8ef3-4f6c-a526-7157d637519d,40_000298,['9_other'],cleaning,20190823_164906
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_001731,"['8-1_dog-barking-whining_presence', '9_other']",bird chirping,20190823_164906
+21a09d27-8ef3-4f6c-a526-7157d637519d,40_001402,['9_other'],cleaning,20190823_164906
+21a09d27-8ef3-4f6c-a526-7157d637519d,02_002754,['7-1_person-or-small-group-talking_presence'],,20190823_165052
+21a09d27-8ef3-4f6c-a526-7157d637519d,23_001030,['7-2_person-or-small-group-shouting_presence'],,20190823_165052
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_001802,"['7-1_person-or-small-group-talking_presence', '6-1_stationary-music_presence']",,20190823_165052
+21a09d27-8ef3-4f6c-a526-7157d637519d,01_002974,"['7-1_person-or-small-group-talking_presence', '9_other']",breaking noises,20190823_165052
+21a09d27-8ef3-4f6c-a526-7157d637519d,41_003020,['4-X_other-unknown-powered-saw_presence'],,20190823_165124
+21a09d27-8ef3-4f6c-a526-7157d637519d,41_003020,['4-X_other-unknown-powered-saw_presence'],,20190823_165339
